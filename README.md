@@ -8,7 +8,9 @@ I’ve built everything from LSTM forecasting models that predict revenue within
 
 ## What You'll Find Here
 
-This is my personal GitHub account which means it's mostly full of portfolio pieces but also contains some other things like my NeoVim config - don't mind that. Here's what I think you'll want to see if you...
+This is my personal GitHub account which means it's mostly full of portfolio pieces but also contains some other things like my NeoVim config - don't mind that. 
+
+Here's what I think you'll want to see if you...
 
 - **Need someone who thinks strategically about data**: Give a quick look at my [Data Philosophy](https://github.com/PubliusV/data-philosophy) repo. It's just a written piece about how I approach data work in an organizational context.
 - **Want to see my best Python work**: Check out my [Job Posting Analyzer](https://github.com/PubliusV/job-posting-analyzer). This was a project I built I built and refactored at a previous employer who needed to automate a web scraping and text analysis pipeline. It's got an intentionally designed, extensible class structure designed so that we could easily onboard clients and get their data ingested and processed quickly.
