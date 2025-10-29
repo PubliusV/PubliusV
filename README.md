@@ -1,23 +1,46 @@
-## Hi there 👋 my name's Ben
+# Hi there 👋 I'm Ben
 
-I’m a data scientist with 7 years of experience (as of the last commit to this repo) spanning analytics, automation, and machine learning building systems that power business operations and strategic decision-making.
+**Data Scientist & Analytics Leader** with 7 years building systems that power business operations and strategic decision-making.
 
-In previous roles, I’ve led development of automated reporting platforms and advanced analytics models that support both day-to-day operations and long-term growth. I managed Summersalt’s end-to-end data pipeline using Stitch, dbt, and GCP, overseeing ETL workflows and the metrics layer that powers their BI ecosystem.
-
-I’ve built everything from LSTM forecasting models that predict revenue within 4% of actuals to NLP systems that extract and standardize skills data from thousands of job descriptions. Whether integrating LLMs into production workflows or leading cross-functional analytics initiatives, I focus on making data systems clear, connected, and built for impact.
+I've led development of automated reporting systems, advanced ML models, and managed end-to-end data pipelines. At Summersalt, I grew to managing the full data stack (Stitch, dbt, GCP, LookML, Looker, custom web apps) and owned the metrics layer powering their BI ecosystem. I've built LSTM forecasting models predicting net revenue with >96% accuracy, web scraping pipelines processing thousands of job descriptions, and production LLM integrations. I'm always focused on making data systems clear, connected, and built for impact.
 
 ## What You'll Find Here
 
-This is my personal GitHub account which means it's mostly full of portfolio pieces but also contains some other things like my NeoVim config - don't mind that. 
+This is my personal GitHub; it's mostly portfolio pieces showcasing professional work, plus some random stuff like my NeoVim config (feel free to ignore that).
 
-Here's what I think you'll want to see if you...
+### 📂 Featured Projects
 
-- **Need someone who thinks strategically about data**: Give a quick look at my [Data Philosophy](https://github.com/PubliusV/data-philosophy) repo. It's just a written piece about how I approach data work in an organizational context.
-- **Want to see my best Python work**: Check out my [Job Posting Analyzer](https://github.com/PubliusV/job-posting-analyzer). This was a project I built I built and refactored at a previous employer who needed to automate a web scraping and text analysis pipeline. It's got an intentionally designed, extensible class structure designed so that we could easily onboard clients and get their data ingested and processed quickly.
-- **Want some evidence of work with Marketing data or working with statistical processes**: Check out my [Multi-Touch Attribution Data Synthesizer](https://github.com/PubliusV/multi-touch-synthesizer). While it needs a refactor (I built this ages ago), it demonstrates my ability to work with statistical frameworks to approximate real behaviors (the data generation side of this piece) as well as my ability to build low-overhead web-apps to expose data effectively (the visualization piece).
+**🧠 [Data Philosophy](https://github.com/PubliusV/data-philosophy)** - How I think about creating value with data in organizations  
+*If you want to understand my strategic approach to data work, start here.*
 
-These projects are pinned below as well for your convenience!
+**🔍 [Job Posting Analyzer](https://github.com/PubliusV/job-posting-analyzer)** - Production-grade Python framework for web scraping & NLP analysis  
+*My best code: extensible class architecture, 7 scraper patterns, multi-stage quality assessment with OpenAI & LanguageTool APIs.*
+
+**📊 [Multi-Touch Attribution Synthesizer](https://github.com/PubliusV/multi-touch-synthesizer)** - Interactive Streamlit app for attribution modeling  
+*Statistical simulation (Poisson, Markov chains) + visualization. Needs a refactor but demonstrates marketing analytics & dashboard skills.*
+
+### 💼 Professional Experience Highlights
+
+- **ML & Forecasting**: revenue forecasting, Media Mix Modeling, customer segmentation (>1M customers)
+- **Analytics Engineering**: dbt pipelines, semantic layers, self-service BI platforms
+- **NLP & Automation**: RAG prototypes, embedding-based skill extraction, automated reporting systems
+- **Leadership**: Cross-functional initiatives, stakeholder management, mentoring analysts
+
+### 🛠️ Tech Stack
+
+**Languages**: Python, R, SQL, LookML  
+**Data Infrastructure**: dbt, GCP, BigQuery, MySQL, Docker, Stitch, Git/GitHub
+**ML/Analytics**: LSTM, MMM, RAG, ARIMA, scikit-learn, keras, experimental design 
+**Visualization**: Looker, Streamlit, Tableau, Plotly, Superset, Metabase
 
 ---
 
-Hopefully that helps you get your bearings and understand where you can find some of my more useful portfolio pieces. Thanks for taking some time to peek at my work! I hope you like what you see and I'm always open to conversations about how we might work with one another.
+### 📬 Let's Connect
+
+I'm always open to conversations about data work, interesting problems, or potential collaboration.
+
+📧 bchristophwachtel@gmail.com  
+🌐 [bwachtel.com](https://bwachtel.com)  
+💼 [LinkedIn](https://linkedin.com/in/ben-wachtel)
+
+Thanks for checking out my work!
