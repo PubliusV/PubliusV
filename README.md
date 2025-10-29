@@ -29,8 +29,8 @@ This is my personal GitHub; it's mostly portfolio pieces showcasing professional
 ### 🛠️ Tech Stack
 
 **Languages**: Python, R, SQL, LookML  
-**Data Infrastructure**: dbt, GCP, BigQuery, MySQL, Docker, Stitch, Git/GitHub
-**ML/Analytics**: LSTM, MMM, RAG, ARIMA, scikit-learn, keras, experimental design 
+**Data Infrastructure**: dbt, GCP, BigQuery, MySQL, Docker, Stitch, Git/GitHub  
+**ML/Analytics**: LSTM, MMM, RAG, ARIMA, scikit-learn, keras, experimental design  
 **Visualization**: Looker, Streamlit, Tableau, Plotly, Superset, Metabase
 
 ---
