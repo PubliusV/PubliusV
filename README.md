@@ -17,7 +17,7 @@ This is my personal GitHub; it's mostly portfolio pieces showcasing professional
 *My best code: extensible class architecture, 7 scraper patterns, multi-stage quality assessment with OpenAI & LanguageTool APIs.*
 
 **📊 [Multi-Touch Attribution Synthesizer](https://github.com/PubliusV/multi-touch-synthesizer)** - Interactive Streamlit app for attribution modeling  
-*Statistical simulation (Poisson, Markov chains) + visualization. Could use a refactor but, it demonstrates my marketing analytics & dashboard skills.*
+*Statistical simulation (Poisson, Markov chains) + visualization. Could use a refactor, but it demonstrates my marketing analytics & dashboard skills.*
 
 ### 💼 Professional Experience Highlights
 
